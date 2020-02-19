@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="StopWatcj">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/StopWatcj.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
